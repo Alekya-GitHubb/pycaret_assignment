@@ -6,7 +6,7 @@
 
 #  Time Series Forecasting with Exogenous Variables (SARIMAX)
 
-Video Walkthrough: (https://drive.google.com/file/d/1REIQfsi3iDQn4pIBiwpBhavBRaq-6TrL/view?usp=sharing)
+## Video Walkthrough: (https://drive.google.com/file/d/1REIQfsi3iDQn4pIBiwpBhavBRaq-6TrL/view?usp=sharing)
 
 ##  Objective
 Predict energy consumption using temperature as an external regressor.
@@ -48,3 +48,4 @@ forecast
 
 
 ###  Video Walkthrough: (https://drive.google.com/file/d/1REIQfsi3iDQn4pIBiwpBhavBRaq-6TrL/view?usp=sharing)**
+
