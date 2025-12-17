@@ -6,6 +6,9 @@
 
 # Time Series Forecasting — Univariate (Airline Passengers)
 
+
+Video Walkthrough: (https://drive.google.com/file/d/1REIQfsi3iDQn4pIBiwpBhavBRaq-6TrL/view?usp=sharing)
+
 ##  Objective
 Forecast monthly airline passengers using classical time series models.
 
@@ -40,6 +43,4 @@ from pycaret.time_series import load_model, predict_model
 model = load_model("ts_model")
 forecast = predict_model(model, fh=12)
 forecast
-
-
-##  Video Walkthrough: (https://drive.google.com/file/d/1REIQfsi3iDQn4pIBiwpBhavBRaq-6TrL/view?usp=sharing)
+    
