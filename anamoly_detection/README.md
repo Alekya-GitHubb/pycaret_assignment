@@ -5,6 +5,8 @@
 
 Video Walkthrough: (https://drive.google.com/file/d/1hr83lN0Y1mEHsffufdnmcS-GAdge_O7C/view?usp=sharing)
 
+Colab Link: https://colab.research.google.com/drive/1IVcfb-C4Ufu6YAX-aTzgtlMgBdu5f8nD?usp=sharing
+
 ```markdown
 #  Anomaly Detection (PyCaret)
 
@@ -46,4 +48,5 @@ from pycaret.anomaly import load_model, predict_model
 model = load_model("anomaly_model")
 preds = predict_model(model)
 preds.head()
+
 
