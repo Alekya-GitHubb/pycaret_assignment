@@ -2,6 +2,8 @@
 
 Video Walkthrough: (https://drive.google.com/file/d/1VnvpwQdlTaHqTg8bC3VMVfSIb8t_A2tp/view?usp=sharing)
 
+Colab Link: https://colab.research.google.com/drive/1OyD1CdFt8zYkqU5epBis_Hjp7EfYPcSs?usp=sharing
+
 ##  Objective
 Perform customer segmentation using clustering techniques to understand behavioral groups and enable better marketing strategies.
 
@@ -43,4 +45,5 @@ from pycaret.clustering import load_model, predict_model
 model = load_model("cluster_model")
 preds = predict_model(model)
 preds.head()
+
 
