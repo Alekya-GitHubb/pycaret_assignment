@@ -9,6 +9,9 @@
 
 Video Walkthrough: (https://drive.google.com/file/d/1REIQfsi3iDQn4pIBiwpBhavBRaq-6TrL/view?usp=sharing)
 
+Colab link: https://colab.research.google.com/drive/13-acIsLevq7UGE_v5NTs3hDXYYUryhLb?usp=sharing
+
+
 ##  Objective
 Forecast monthly airline passengers using classical time series models.
 
@@ -44,3 +47,4 @@ model = load_model("ts_model")
 forecast = predict_model(model, fh=12)
 forecast
     
+
