@@ -3,6 +3,8 @@
 
 Video Walkthrough: (https://drive.google.com/file/d/1zqvM44o0NNUNwd1Zjfy9yXxfTqMOCBn-/view?usp=sharing)
 
+Colab Link: https://colab.research.google.com/drive/1RRJg9WQZYqUxxv2yauh_jKwhlc-qQG0-?usp=sharing
+
 ## Project Overview
 Customer churn prediction is critical for telecom companies to retain high-value users by identifying customers likely to leave.  
 This project builds a machine-learning pipeline using **PyCaret Classification** to classify customers as:
