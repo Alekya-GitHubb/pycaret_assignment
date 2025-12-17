@@ -3,6 +3,7 @@
 
 ##  README.md — Time Series Forecasting w/ Exogenous Variables**
 
+Colab: (https://colab.research.google.com/drive/1AUtqhClM_jQEPr7ourNIlNe3VEdUlFUc?usp=sharing)
 
 #  Time Series Forecasting with Exogenous Variables (SARIMAX)
 
@@ -43,6 +44,7 @@ Exogenous variable **improved forecast accuracy**
 model = load_model("ts_exog_model")
 forecast = predict_model(model, fh=30)
 forecast
+
 
 
 
