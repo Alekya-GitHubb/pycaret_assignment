@@ -4,6 +4,8 @@
 
 ## ✅ **2️⃣ README.md — Association Rule Mining**
 
+Video Walkthrough: (https://drive.google.com/file/d/1Thh9k2HIqKWa75IO8Bbq_BGQqMPz6t7O/view?usp=sharing)
+
 ```markdown
 # 🛒 Market Basket Analysis — Association Rules
 
@@ -44,3 +46,4 @@ Discover frequently purchased item combinations and derive association rules for
 ## ▶️ How to Run
 ```python
 rules.head()
+
