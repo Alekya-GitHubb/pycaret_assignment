@@ -6,6 +6,8 @@
 
 #  Time Series Forecasting with Exogenous Variables (SARIMAX)
 
+Video Walkthrough: (https://drive.google.com/file/d/1REIQfsi3iDQn4pIBiwpBhavBRaq-6TrL/view?usp=sharing)
+
 ##  Objective
 Predict energy consumption using temperature as an external regressor.
 
@@ -43,3 +45,6 @@ Exogenous variable **improved forecast accuracy**
 model = load_model("ts_exog_model")
 forecast = predict_model(model, fh=30)
 forecast
+
+
+###  Video Walkthrough: (https://drive.google.com/file/d/1REIQfsi3iDQn4pIBiwpBhavBRaq-6TrL/view?usp=sharing)**
