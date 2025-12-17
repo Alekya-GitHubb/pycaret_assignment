@@ -1,7 +1,7 @@
 # PyCaret Assignment - Binary Classification
 # Customer Churn Prediction — Binary Classification using PyCaret
 
-Video Walkthrough: (https://drive.google.com/file/d/1Thh9k2HIqKWa75IO8Bbq_BGQqMPz6t7O/view?usp=sharing)
+Video Walkthrough: (https://drive.google.com/file/d/1zqvM44o0NNUNwd1Zjfy9yXxfTqMOCBn-/view?usp=sharing)
 
 ## Project Overview
 Customer churn prediction is critical for telecom companies to retain high-value users by identifying customers likely to leave.  
