@@ -3,6 +3,8 @@
 
 ##  README.md — Anomaly Detection**
 
+Video Walkthrough: (https://drive.google.com/file/d/1hr83lN0Y1mEHsffufdnmcS-GAdge_O7C/view?usp=sharing)
+
 ```markdown
 #  Anomaly Detection (PyCaret)
 
@@ -44,3 +46,4 @@ from pycaret.anomaly import load_model, predict_model
 model = load_model("anomaly_model")
 preds = predict_model(model)
 preds.head()
+
